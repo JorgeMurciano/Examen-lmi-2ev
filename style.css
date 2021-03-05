@@ -1,0 +1,78 @@
+h1.uno{
+    background-color: darkorange;
+    text-align: center;
+    font-family: 'Akaya Kanadaka', cursive;
+    color: white;
+    text-shadow: orangered 6px 0;
+    padding: 20px;
+}
+body{
+    background-color: rgb(236, 229, 129);
+}
+p.text{
+    background-color: rgb(252, 207, 86);
+    text-align: center;
+    border: orangered solid;
+    font-weight: 800;
+}
+input{
+    color: white;
+    background-color: rgb(236, 148, 108);
+    border: orangered solid;
+    padding: 10px;
+}
+p.naranja{
+    background-color: rgb(236, 148, 108);
+    border: orangered solid;
+    color: orangered;
+    position: relative;
+    text-align: center;
+    z-index: 2;
+    height: 250px;
+    left: 33%;
+    width: 450px;
+}
+p.amarillo{
+    background-color: rgb(252, 207, 86);
+    color: yellow;
+    border: yellowgreen solid;
+    position: relative;
+    text-align: center;
+    z-index: 1;
+    top: -75px;
+    left: 20%;
+    height: 250px;
+    width: 350px;
+}
+p.azul{
+    background-color: skyblue;
+    border: cadetblue solid;
+    color: orange;
+    position: relative;
+    text-align: center;
+    z-index: 1;
+    top: -350px;
+    left: 55%;
+    height: 250px;
+    width: 350px;
+}
+span.borde{
+    border-top: orangered solid;
+}
+p.antella{
+    color: white;
+    background-color: rgb(255, 180, 110);
+    position: relative;
+    top: -400px;
+    left: 40%;
+    height: 250px;
+    width: 250px;
+}
+p.bajo{
+    background-color: yellow;
+    color: orangered;
+    padding: 10px;
+    position: relative;
+    top: unset;
+    text-align: center;
+}
